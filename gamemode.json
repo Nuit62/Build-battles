@@ -2,6 +2,6 @@
     "Name": "Битва строителей",
     "Description": "О",
     "StartClientVersion": 334,
-    "ApiVersion": 2
+    "ApiVersion": 2,
     "Script": "client/room/main.js"
 }
