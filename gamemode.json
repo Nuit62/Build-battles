@@ -1,6 +1,10 @@
 {
-  "Name": "Битва строителей",
-  "Description": "Режим для творчества",
-  "Script": "game_full/main.js",
-  "ApiVersion": 2
-}
+    "Name": "Битва строителей",
+    "Description": "",
+    "StartClientVersion": 334,
+    "ApiVersion": 2,
+    "MapLists": [
+      {
+        "MapListId": 8401,
+        "Name": "Заготовки"
+      }
