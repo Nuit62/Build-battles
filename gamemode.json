@@ -1,7 +1,7 @@
 {
   "Name": "Битва строителей",
   "Description": "60 секунд на постройку + голосование",
-  "Script": "Build-battles/main.js",
+  "Script": "BuildBattles/main.js",
   "ApiVersion": 2,
   "StartClientVersion": 579,
   "Authors": ["Lexandys"],
