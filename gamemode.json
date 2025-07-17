@@ -1,7 +1,14 @@
 {
-    "Name": "Битва строителей",
-    "Description": "О",
-    "StartClientVersion": 579,
-    "ApiVersion": 2,
-    "Script": "client/room/main.js"
+  "Name": "Битва строителей",
+  "Description": "60 секунд на постройку + голосование",
+  "Script": "BuildBattle/main.js",
+  "ApiVersion": 2,
+  "StartClientVersion": 579,
+  "Authors": ["Lexandys"],
+  "Maplists": [
+    {
+      "MaplistId": 17929,
+      "Name": "Стандартные"
+    }
+  ]
 }
