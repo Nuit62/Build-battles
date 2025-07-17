@@ -1,0 +1,14 @@
+{
+  "Name": "Битва строителей",
+  "Description": "Соревнуйся в постройках. 60 секунд на строительство, затем голосование!",
+  "StartClientVersion": 579,
+  "ApiVersion": 2,
+  "Maplists": [
+    {
+      "MaplistId": 17929,
+      "Name": "Официальные карты"
+    }
+  ],
+  "Script": "game_full/main.js",
+  "Authors": ["Lexandys"]
+}
