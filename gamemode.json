@@ -12,3 +12,4 @@
   "Script": "game_full/main.js",
   "Authors": ["Lexandys"]
 }
+cat gamemode.json | jq empty
