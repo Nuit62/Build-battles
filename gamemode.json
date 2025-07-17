@@ -1,0 +1,6 @@
+{
+  "Name": "Битва строителей",
+  "Description": "Режим для творчества",
+  "Script": "game_full/main.js",
+  "ApiVersion": 2
+}
