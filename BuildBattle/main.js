@@ -1,4 +1,3 @@
-
 // Имитация импортов через глобальные объекты
 var Basic = require('pixel_combats/basic');
 var Room = require('pixel_combats/room');
